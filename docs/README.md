@@ -138,7 +138,7 @@ Detailed descriptions of core project delivery roles and responsibilities. Inclu
 ## Support & Feedback
 
 To request updates or add content to these process docs:
-- Create an issue using the [**"Add Content to Project Management Process Docs"**](./.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template
+- Create an issue using the [**"Add Content to Project Management Process Docs"**](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template
 - Propose changes via pull request with a clear rationale for the update
 - Share feedback in team retrospectives or syncs
 
